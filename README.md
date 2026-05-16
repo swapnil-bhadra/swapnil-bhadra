@@ -50,8 +50,8 @@ I'm not looking to coast into a job. I want to work somewhere that challenges me
 
 ## Let's Talk
 
-📬 Reach me on [LinkedIn](https://linkedin.com/in/swapnilbhadra) *(update with your actual link)*  
-📧 Or just email me directly *(add your email here)*  
+📬 Reach me on [LinkedIn](www.linkedin.com/in/swapnil-bhadra-960a55305)
+📧 bhadraswapnil@gmail.com  
 
 If you're a recruiter or engineer who wants to chat — I'm always open to a conversation.
 
