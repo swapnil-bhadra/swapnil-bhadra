@@ -1,5 +1,5 @@
 <!-- Profile view counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=swapnilbhadra2004&color=58a6ff&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=swapnil-bhadra&color=58a6ff&style=for-the-badge)
 
 <!-- Typing header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=600&lines=Hey%2C+I'm+Swapnil+%F0%9F%91%8B;CS+Undergrad+%7C+DSA+%C2%B7+Systems+%C2%B7+AI%2FML;Building+things+that+scale;Open+to+SWE+%26+ML+roles)](https://git.io/typing-svg)
@@ -13,7 +13,7 @@ Currently looking for **SWE / ML engineering roles** where I can ship something 
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=swapnilbhadra2004&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=swapnil-bhadra&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -33,12 +33,12 @@ Currently looking for **SWE / ML engineering roles** where I can ship something 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swapnilbhadra2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilbhadra2004&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=swapnil-bhadra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnil-bhadra&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=swapnilbhadra2004&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=swapnil-bhadra&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -53,11 +53,11 @@ Currently looking for **SWE / ML engineering roles** where I can ship something 
 
 ## 🚀 Projects Worth Looking At
 
-### [Conflict Simulator Dashboard](https://github.com/swapnilbhadra2004/Conflict-Simulator-Dashboard)
+### [Conflict Simulator Dashboard](https://github.com/swapnil-bhadra/Conflict-Simulator-Dashboard)
 Simulation dashboard that models and visualizes conflict dynamics. Built around data modeling and interactive visualization.  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-### [N-Queens Visualizer](https://github.com/swapnilbhadra2004/n-queens-visualizer)
+### [N-Queens Visualizer](https://github.com/swapnil-bhadra/n-queens-visualizer)
 Step-by-step visualization of backtracking — built to actually understand the algorithm, not just submit it.  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
@@ -79,7 +79,7 @@ My corner of the internet. Built from scratch.
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/swapnilbhadra2004/swapnilbhadra2004/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/swapnil-bhadra/swapnil-bhadra/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
