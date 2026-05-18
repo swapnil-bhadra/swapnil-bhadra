@@ -33,11 +33,6 @@ Currently looking for **SWE / ML engineering roles** where I can ship something 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swapnil-bhadra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnil-bhadra&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=swapnil-bhadra&theme=tokyonight&hide_border=true" />
 </p>
 
