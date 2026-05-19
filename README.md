@@ -71,14 +71,6 @@ My corner of the internet. Built from scratch.
 
 ---
 
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/swapnil-bhadra/swapnil-bhadra/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 ## 📬 Let's Talk
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swapnil-bhadra-960a55305)
