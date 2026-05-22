@@ -30,14 +30,6 @@ Currently looking for **SWE / ML engineering roles** where I can ship something 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=swapnil-bhadra&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🧩 LeetCode
 
 <p align="center">
