@@ -1,4 +1,4 @@
-<!-- Profile view counter -->
+
 ![Profile Views](https://komarev.com/ghpvc/?username=swapnil-bhadra&color=58a6ff&style=for-the-badge)
 
 <!-- Typing header -->
